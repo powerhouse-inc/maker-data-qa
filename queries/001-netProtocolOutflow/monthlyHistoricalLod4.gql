@@ -1,0 +1,13 @@
+query Analytics($filter: AnalyticsFilter) {
+  analytics(filter: $filter) {
+    series {
+      period
+      rows {
+        dimensions {
+          path
+        }
+        value        
+      }
+    }
+  }
+}

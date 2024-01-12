@@ -1,0 +1,10 @@
+query Analytics($filter: AnalyticsFilter) {
+  analytics(filter: $filter) {
+    series {
+      period
+      rows {
+        value
+      }
+    }
+  }
+}
