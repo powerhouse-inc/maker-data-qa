@@ -1,0 +1,7094 @@
+[
+    {
+        "period": "2021/01",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/02",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -100000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/03",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/04",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -120000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -100500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -1810000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/05",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -80000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -100500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": -44375
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -40000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -126117
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -1153480
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/06",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -80000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -100500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -510000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -40000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -126117
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -642135
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/07",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -273334
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -182000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -510000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -155000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -126117
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -1219677
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/08",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -123333
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -182000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -510000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -155000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -637900
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -702883
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -419677
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -162000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/09",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -10000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -501691.44
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -155237
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -2138591
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/10",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -113333
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -182000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -499441.34
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -185311.34
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -170088.84
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -307631
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -46039.96
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": -75000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -483575
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -106500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": -1223552
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/11",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 112362.61
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -182000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -464306.25
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -791138
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -31006.963
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": -73809.88
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -359120.8
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -107500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": -195443
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -931250
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2021/12",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -83502.37
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -182000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -529445.038567
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -294594.88
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -129961.15
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -47452.206999999995
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -59500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -35834
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/01",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -145701.64
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -364000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -409751.12
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -271883.17000000004
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -10751477
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -37500.869999999995
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -45000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": -229792
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -59500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -48290
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": -1069250
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/02",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -90558.448
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -397018.03
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -44395.77
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": -42917.000400000004
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -59500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": -113984
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -385778.3
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -54752
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -82417.007
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": -234408.03
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/03",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 28640.09
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -182000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -1146245.15
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -149728.48
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -491587.72
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -42943.74
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -100000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -58000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": -259184
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -59500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": -138000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -65910
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -80181.766
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": -111532.75
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/04",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -233499.5
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -510360.4
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -2055000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -1093479.5
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -49423.906
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -333661.1
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -59500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": -348453
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -77183
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -76344.45
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/05",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -460000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -1359503.06
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -113692.246
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -35000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -76985.37
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -427928.03
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -79647
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -91621.7
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": -148877.34
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": -149692
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/06",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -38465.640000000014
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -50018.43
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -100000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": -233514.093
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -268368.86
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": -638431.9
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -85779.4
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -255179.58
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -78062
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -73443.15
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/07",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -103104.21
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -1222865.2
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": -603897.1999999997
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -733796.66
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -1135982.6800000002
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -49789.439
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -322383
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -49157.836
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -85312
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -83865.266
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": -243313.12
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": -147291.7
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/08",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -82781.805
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -460000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -600000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -655913.3
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -64051.543
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -235000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -122274.198
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -65000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -125605
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -168123.77699999997
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": -45000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/09",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -92296.31
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -600000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -336260.1
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 733547.94
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -64011.643434699996
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -12971
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -61094.553
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": -619082.1
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -100000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": -252579
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -298469.84
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -117445
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": -519879
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -84033.38
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": -114218
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/10",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -49340.38
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -600000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -208351.87
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": -42634.008
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -65317.94610000001
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -60000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -120490
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -75946.7
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": -177605.73
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": -128892.45
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/11",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -32038.992
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -476857.7
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 3552146.8680000007
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -1037436.8
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 178052.65000000002
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -150000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -80000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -175000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -804191.44
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": -43332
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -70000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -111712
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": -264512.69999999995
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -76000.516
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 81501.52
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": -167666
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2022/12",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -95340.46
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -200000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -4165.222999999998
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -62000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 696836.7
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -483413.16
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -103230
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -91920.55
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2023/01",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 24421.025999999998
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -632500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -328626.2200000001
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -325000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 168336
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -471583.78
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -108690
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -78572
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2023/02",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": -230000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -632500
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -166707.78
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -200000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": -131200
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -189000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 746013.0786
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": -639759.9
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -311548.88
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -97048
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": -138894
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -81278.59
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2023/03",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -83730.39
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -1602053.75
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 98651.41000000003
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -1650000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -44250
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -196194.62
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -80000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -87836
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": -553704.1
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -92556.92
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2023/04",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -82845.38
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -1750000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -1700000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 31614.25
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -23000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -142572.66
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -80000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": -700356.9
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -292771.5
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": -64694
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -167561.4
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": -100438.01
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -811350
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2023/05",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -86159.81
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": -66000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -680701.56
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -380578.74
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -200000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -45000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": -263422.47
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -80000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -174991.03
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 116337.14000000001
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -157731.88
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -1311364.3900000001
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2023/06",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 32289.949999999997
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -150000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": -280841.45999999996
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 649515
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -156128.7
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": -115373.39
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -213223.45
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -691360.79
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": 0
+            }
+        ]
+    },
+    {
+        "period": "2023/07",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -77043.375
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": -241936.84
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -173830.73999999996
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -900000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -40000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -5055.97
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -170589.72
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -170158.72
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 25306.86
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -1752642.2081472
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": -39715.375600000014
+            }
+        ]
+    },
+    {
+        "period": "2023/08",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -14228.839999999997
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0.02000000001862645
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -429562
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -579575
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 283716.9
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 32330.41
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -169419.06
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -1612543.391
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": -32144.205
+            }
+        ]
+    },
+    {
+        "period": "2023/09",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": -75687.84
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 12583.425
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": -61639.777
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -349272.1
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -206668.42
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -207000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": -8119.235999999997
+            }
+        ]
+    },
+    {
+        "period": "2023/10",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": -552537.6
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": -200000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": -325278.28
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -186262.83
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -2919087.673699999
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": -4005.984000000004
+            }
+        ]
+    },
+    {
+        "period": "2023/11",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 322276.1
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 413395.66
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -195023.36
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -985593.4149999999
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": -20069.508500000004
+            }
+        ]
+    },
+    {
+        "period": "2023/12",
+        "rows": [
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GOV-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RISK-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/PE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/MKT-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/RWF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/GRO-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SES-001"
+                    }
+                ],
+                "value": 37000
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/ORA-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/COM-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DAIF-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SNE-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DUX-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/CES-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DIN-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/IS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/DECO-001"
+                    }
+                ],
+                "value": -59354.55
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/recognized-delegates/*"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/TECH-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SF-001"
+                    }
+                ],
+                "value": -35926.73
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/SAS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/core-units/EVENTS-001"
+                    }
+                ],
+                "value": 0
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/scopes/SUP/incubation"
+                    }
+                ],
+                "value": -2313262.864
+            },
+            {
+                "dimensions": [
+                    {
+                        "path": "atlas/legacy/keepers/*"
+                    }
+                ],
+                "value": -36386.17797999999
+            }
+        ]
+    }
+]
