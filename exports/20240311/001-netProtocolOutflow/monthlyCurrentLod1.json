@@ -1,0 +1,31 @@
+{
+    "data": {
+        "analytics": {
+            "series": [{
+                "period": "2024/01",
+                "rows": [{
+                    "dimensions": [{
+                        "path": "atlas"
+                    }],
+                    "value": 5632713.8707
+                }]
+            }, {
+                "period": "2024/02",
+                "rows": [{
+                    "dimensions": [{
+                        "path": "atlas"
+                    }],
+                    "value": 1480512.1495399997
+                }]
+            }, {
+                "period": "2024/03",
+                "rows": [{
+                    "dimensions": [{
+                        "path": "atlas"
+                    }],
+                    "value": 341437.13058500004
+                }]
+            }]
+        }
+    }
+}
