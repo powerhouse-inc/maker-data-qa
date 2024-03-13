@@ -4,26 +4,17 @@
             "series": [{
                 "period": "2024/01",
                 "rows": [{
-                    "dimensions": [{
-                        "path": "atlas"
-                    }],
-                    "value": 5632713.8707
+                    "value": 5700016.5807
                 }]
             }, {
                 "period": "2024/02",
                 "rows": [{
-                    "dimensions": [{
-                        "path": "atlas"
-                    }],
-                    "value": 1480512.1495399997
+                    "value": 1581115.1495399997
                 }]
             }, {
                 "period": "2024/03",
                 "rows": [{
-                    "dimensions": [{
-                        "path": "atlas"
-                    }],
-                    "value": 341437.13058500004
+                    "value": 399211.806585
                 }]
             }]
         }
