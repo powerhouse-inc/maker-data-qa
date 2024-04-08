@@ -1,0 +1,17 @@
+{
+  "filter": {
+    "start": "2024-01-01",
+    "metrics": [
+      "ProtocolNetOutflow"
+    ],
+    "granularity": "monthly",
+    "currency": "DAI",
+    "dimensions": [
+      {
+        "name": "budget",
+        "select": "atlas",
+        "lod": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "analytics": {
+            "series": [{
+                "period": "2021",
+                "rows": [{
+                    "unit": "DAI",
+                    "metric": "PaymentsOnChain",
+                    "sum": 656924.9800000002
+                }, {
+                    "unit": "MKR",
+                    "metric": "PaymentsOnChain",
+                    "sum": 0
+                }, {
+                    "unit": "USDC",
+                    "metric": "PaymentsOnChain",
+                    "sum": 0
+                }, {
+                    "unit": "DAI",
+                    "metric": "ProtocolNetOutflow",
+                    "sum": 1639354
+                }, {
+                    "unit": "MKR",
+                    "metric": "ProtocolNetOutflow",
+                    "sum": 0
+                }]
+            }, {
+                "period": "2022",
+                "rows": [{
+                    "unit": "DAI",
+                    "metric": "PaymentsOnChain",
+                    "sum": 7307707.920000013
+                }, {
+                    "unit": "MKR",
+                    "metric": "PaymentsOnChain",
+                    "sum": 583.043842
+                }, {
+                    "unit": "USDC",
+                    "metric": "PaymentsOnChain",
+                    "sum": 0
+                }, {
+                    "unit": "DAI",
+                    "metric": "ProtocolNetOutflow",
+                    "sum": 12007283.06
+                }, {
+                    "unit": "MKR",
+                    "metric": "ProtocolNetOutflow",
+                    "sum": 609.3625
+                }]
+            }, {
+                "period": "2023",
+                "rows": [{
+                    "unit": "DAI",
+                    "metric": "PaymentsOnChain",
+                    "sum": 15280570.770000022
+                }, {
+                    "unit": "MKR",
+                    "metric": "PaymentsOnChain",
+                    "sum": 2192.2338420000005
+                }, {
+                    "unit": "USDC",
+                    "metric": "PaymentsOnChain",
+                    "sum": -1706900.0499999966
+                }, {
+                    "unit": "DAI",
+                    "metric": "ProtocolNetOutflow",
+                    "sum": 17911858.060000002
+                }, {
+                    "unit": "MKR",
+                    "metric": "ProtocolNetOutflow",
+                    "sum": 2192.2400000000002
+                }]
+            }]
+        }
+    }
+}

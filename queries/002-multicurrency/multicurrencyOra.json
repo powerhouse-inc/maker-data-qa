@@ -1,0 +1,18 @@
+{
+  "filter": {
+    "start": "2021-01-01",
+    "end": "2024-01-01",
+    "metrics": [
+      "ProtocolNetOutflow",
+      "PaymentsOnChain"
+    ],
+    "granularity": "annual",
+    "dimensions": [
+      {
+        "name": "budget",
+        "select": "atlas/legacy/core-units/ORA-001",
+        "lod": 5
+      }
+    ]
+  }
+}

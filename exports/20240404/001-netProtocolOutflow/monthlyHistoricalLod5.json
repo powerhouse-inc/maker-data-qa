@@ -20,12 +20,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -60,12 +60,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -151,6 +151,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -228,12 +233,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -268,12 +273,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -359,6 +364,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -436,12 +446,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -476,12 +486,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -567,6 +577,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -644,12 +659,12 @@
                     "value": 1810000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -684,12 +699,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -775,6 +790,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -852,14 +872,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 40000
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 44375
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 40000
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -892,12 +912,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -983,6 +1003,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -1060,14 +1085,14 @@
                     "value": 510000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 40000
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 44375
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 40000
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -1100,12 +1125,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -1191,6 +1216,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -1268,14 +1298,14 @@
                     "value": 510000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 155000
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 44375
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 155000
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -1308,12 +1338,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -1399,6 +1429,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -1476,14 +1511,14 @@
                     "value": 510000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 155000
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 98067
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 155000
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -1516,12 +1551,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -1607,6 +1642,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -1684,12 +1724,12 @@
                     "value": 501691.44
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -1724,12 +1764,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -1819,6 +1859,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -1892,14 +1937,14 @@
                     "value": 499441.34
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 185311.34
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 185311.34
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -1932,14 +1977,14 @@
                     "value": 483575
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 75000
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 106500
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 75000
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -2027,6 +2072,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -2100,14 +2150,14 @@
                     "value": 464306.25
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 0
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 66000
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -2140,14 +2190,14 @@
                     "value": 359120.8
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 73809.88
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 73809.88
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -2235,6 +2285,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -2308,14 +2363,14 @@
                     "value": 529445.038567
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 294594.88
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 6600
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 294594.88
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -2348,12 +2403,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -2443,6 +2498,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -2516,14 +2576,14 @@
                     "value": 409751.12
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 271883.17000000004
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 199973.797
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 271883.17000000004
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -2556,14 +2616,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 229792
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 229792
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -2651,6 +2711,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -2724,14 +2789,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 90558.448
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 90558.448
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -2764,14 +2829,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 42917.000400000004
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 42917.000400000004
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -2859,6 +2924,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -2932,14 +3002,14 @@
                     "value": 1146245.15
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 149728.48
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 149728.48
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -2972,14 +3042,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 0
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 58000
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -3067,6 +3137,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -3140,14 +3215,14 @@
                     "value": 510360.4
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 2055000
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 2055000
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -3180,12 +3255,12 @@
                     "value": 333661.1
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -3275,6 +3350,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -3348,12 +3428,12 @@
                     "value": 1359503.06
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -3388,14 +3468,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 0
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 35000
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -3483,6 +3563,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -3556,12 +3641,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -3596,14 +3681,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 233514.093
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 268368.86
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 233514.093
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -3691,6 +3776,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -3764,14 +3854,14 @@
                     "value": 1222865.2
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": 603897.1999999997
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": 603897.1999999997
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -3804,12 +3894,12 @@
                     "value": 322383
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -3899,6 +3989,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -3972,12 +4067,12 @@
                     "value": 600000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -4012,14 +4107,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 0
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 122274.198
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -4107,6 +4202,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -4180,12 +4280,12 @@
                     "value": 600000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -4220,14 +4320,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 0
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 61094.553
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -4282,7 +4382,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 18468.547300000002
+                    "value": 18468.547300000006
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -4311,6 +4411,11 @@
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/scopes/PRO/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
                     }],
                     "value": 0
                 }, {
@@ -4388,12 +4493,12 @@
                     "value": 600000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -4428,14 +4533,14 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 42634.008
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 65317.94610000001
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 42634.008
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -4523,6 +4628,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -4596,14 +4706,14 @@
                     "value": 476857.7
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
-                    }],
-                    "value": -1776073.4340000004
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/RWF-001/*"
+                    }],
+                    "value": -1776073.4340000004
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/GRO-001/*"
@@ -4636,14 +4746,14 @@
                     "value": 804191.44
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
-                    }],
-                    "value": 0
-                }, {
-                    "dimensions": [{
                         "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 43332
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/legacy/core-units/SNE-001/*"
+                    }],
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/legacy/core-units/CES-001/*"
@@ -4731,6 +4841,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -4804,12 +4919,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -4844,12 +4959,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -4939,6 +5054,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -5012,12 +5132,12 @@
                     "value": 632500
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5052,12 +5172,12 @@
                     "value": 471583.78
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5147,6 +5267,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -5220,12 +5345,12 @@
                     "value": 632500
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5260,12 +5385,12 @@
                     "value": -746013.0786
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5355,6 +5480,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -5428,12 +5558,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5468,12 +5598,12 @@
                     "value": 196194.62
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5563,6 +5693,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -5636,12 +5771,12 @@
                     "value": 1750000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5676,12 +5811,12 @@
                     "value": 142572.66
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5771,6 +5906,11 @@
                     "value": 0
                 }, {
                     "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 0
+                }, {
+                    "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
                     }],
                     "value": 0
@@ -5844,12 +5984,12 @@
                     "value": 66000
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5884,12 +6024,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -5946,7 +6086,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 7452.9053
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -5977,6 +6117,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 362699.75
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 7452.9053
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
@@ -6052,12 +6197,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6092,12 +6237,12 @@
                     "value": 280841.45999999996
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6154,7 +6299,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 53109.837700000004
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -6185,6 +6330,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 53109.8377
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
@@ -6260,12 +6410,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6300,12 +6450,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6362,7 +6512,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 67718.688
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -6393,6 +6543,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 336201.28
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 67718.68800000002
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
@@ -6468,12 +6623,12 @@
                     "value": -0.02000000001862645
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6508,12 +6663,12 @@
                     "value": -283716.9
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6570,7 +6725,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 88142.678
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -6601,6 +6756,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 182868.33
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 88142.678
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
@@ -6676,12 +6836,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6716,12 +6876,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6778,7 +6938,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 28119.23599999999
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -6809,6 +6969,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 101603.91
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 28119.23599999999
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
@@ -6884,12 +7049,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6924,12 +7089,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -6986,7 +7151,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 4005.984000000004
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -7017,6 +7182,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 172781.66
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 4005.984000000004
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
@@ -7092,12 +7262,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -7132,12 +7302,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -7194,7 +7364,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 126373.2585
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -7225,6 +7395,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 143859.06
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 126373.2585
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"
@@ -7300,12 +7475,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/RWF-001/*"
+                        "path": "atlas/legacy/core-units/MKT-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/MKT-001/*"
+                        "path": "atlas/legacy/core-units/RWF-001/*"
                     }],
                     "value": 0
                 }, {
@@ -7340,12 +7515,12 @@
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SNE-001/*"
+                        "path": "atlas/legacy/core-units/SH-001/*"
                     }],
                     "value": 0
                 }, {
                     "dimensions": [{
-                        "path": "atlas/legacy/core-units/SH-001/*"
+                        "path": "atlas/legacy/core-units/SNE-001/*"
                     }],
                     "value": 0
                 }, {
@@ -7402,7 +7577,7 @@
                     "dimensions": [{
                         "path": "atlas/legacy/keepers/*/*"
                     }],
-                    "value": 56386.17798000001
+                    "value": 0
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/VPAC-001"
@@ -7433,6 +7608,11 @@
                         "path": "atlas/legacy/scopes/PRO/*"
                     }],
                     "value": 0
+                }, {
+                    "dimensions": [{
+                        "path": "atlas/scopes/PRO/KPRS/*"
+                    }],
+                    "value": 56386.17798000001
                 }, {
                     "dimensions": [{
                         "path": "atlas/scopes/SUP/incubation/PUL-001"

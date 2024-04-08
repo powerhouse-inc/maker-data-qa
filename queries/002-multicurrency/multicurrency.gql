@@ -1,0 +1,12 @@
+query multicurrency($filter: AnalyticsFilter) {
+  analytics {
+    series (filter: $filter) {
+      period
+      rows {
+        unit
+        metric
+        value        
+      }
+    }
+  }
+}
