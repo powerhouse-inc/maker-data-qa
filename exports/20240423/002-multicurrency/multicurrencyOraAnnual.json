@@ -29,7 +29,7 @@
                 "rows": [{
                     "unit": "DAI",
                     "metric": "PaymentsOnChain",
-                    "sum": 7307707.920000013
+                    "sum": 7307707.920000011
                 }, {
                     "unit": "MKR",
                     "metric": "PaymentsOnChain",
@@ -52,7 +52,7 @@
                 "rows": [{
                     "unit": "DAI",
                     "metric": "PaymentsOnChain",
-                    "sum": 15280570.770000022
+                    "sum": 15280570.77000002
                 }, {
                     "unit": "MKR",
                     "metric": "PaymentsOnChain",

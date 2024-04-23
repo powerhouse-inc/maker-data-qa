@@ -1,0 +1,11 @@
+query CuHistoric($filter: AnalyticsFilter) {
+    analytics {
+      series (filter: $filter) {
+        period
+        rows {
+          metric
+          value        
+        }
+      }
+    }
+  }

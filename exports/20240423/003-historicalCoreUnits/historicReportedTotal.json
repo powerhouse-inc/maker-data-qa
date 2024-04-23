@@ -1,0 +1,19 @@
+{
+    "data": {
+        "analytics": {
+            "series": [{
+                "period": "total",
+                "rows": [{
+                    "metric": "Budget",
+                    "value": 151105949.62499994
+                }, {
+                    "metric": "Forecast",
+                    "value": 46826543.77999994
+                }, {
+                    "metric": "Actuals",
+                    "value": 47054945.40999999
+                }]
+            }]
+        }
+    }
+}

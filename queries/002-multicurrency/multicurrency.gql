@@ -5,7 +5,7 @@ query multicurrency($filter: AnalyticsFilter) {
       rows {
         unit
         metric
-        value        
+        sum        
       }
     }
   }

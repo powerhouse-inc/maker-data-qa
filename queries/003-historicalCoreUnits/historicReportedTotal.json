@@ -1,0 +1,19 @@
+{
+  "filter": {
+    "end": "2023-12-01",
+    "metrics": [
+     "Actuals",
+     "Forecast",
+     "Budget"
+    ],
+    "granularity": "total",
+    "currency": "DAI",
+    "dimensions": [
+      {
+        "name": "budget",
+        "select": "atlas",
+        "lod": 1
+      }
+    ]
+  }
+}
