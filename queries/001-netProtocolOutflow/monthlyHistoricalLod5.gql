@@ -1,6 +1,6 @@
 query Analytics($filter: AnalyticsFilter) {
-  analytics(filter: $filter) {
-    series {
+  analytics {
+    series(filter: $filter)  {
       period
       rows {
         dimensions {

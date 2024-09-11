@@ -1,0 +1,2263 @@
+{
+    "data": {
+        "analytics": {
+            "series": [
+                {
+                    "period": "2021/01",
+                    "rows": []
+                },
+                {
+                    "period": "2021/02",
+                    "rows": [
+                        {
+                            "cu_id": "INTERIM",
+                            "value": 100000
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/03",
+                    "rows": []
+                },
+                {
+                    "period": "2021/04",
+                    "rows": [
+                        {
+                            "cu_id": "PE-001",
+                            "value": 1810000
+                        },
+                        {
+                            "cu_id": "INTERIM",
+                            "value": 120000
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 100500
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/05",
+                    "rows": [
+                        {
+                            "cu_id": "SES-001",
+                            "value": 1153480
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 126117
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 100500
+                        },
+                        {
+                            "cu_id": "INTERIM",
+                            "value": 80000
+                        },
+                        {
+                            "cu_id": "MKT-001",
+                            "value": 44375
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 40000
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/06",
+                    "rows": [
+                        {
+                            "cu_id": "SES-001",
+                            "value": 642135
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 510000
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 126117
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 100500
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 80000
+                        },
+                        {
+                            "cu_id": "MKT-001",
+                            "value": 44375
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 40000
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/07",
+                    "rows": [
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 1219677
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 510000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 273334
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 182000
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 155000
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 126117
+                        },
+                        {
+                            "cu_id": "MKT-001",
+                            "value": 44375
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/08",
+                    "rows": [
+                        {
+                            "cu_id": "SES-001",
+                            "value": 702883
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 637900
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 510000
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 419677
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 182000
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 162000
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 155000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 123333
+                        },
+                        {
+                            "cu_id": "MKT-001",
+                            "value": 98067
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/09",
+                    "rows": [
+                        {
+                            "cu_id": "PE-001",
+                            "value": 501691.43
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 10000
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 2138591
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 155237
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/10",
+                    "rows": [
+                        {
+                            "cu_id": "PE-001",
+                            "value": 499441.35
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 113333
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 46039.96
+                        },
+                        {
+                            "cu_id": "CES-001",
+                            "value": 1223552
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 185311.35
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 170088.85
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 483575
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 307631
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 106500
+                        },
+                        {
+                            "cu_id": "SNE-001",
+                            "value": 75000
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 182000
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/11",
+                    "rows": [
+                        {
+                            "cu_id": "MKT-001",
+                            "value": 66000
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 465625
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 245738
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 195443
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 464306.26
+                        },
+                        {
+                            "cu_id": "SNE-001",
+                            "value": 73809.89
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 31006.96
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 359120.8
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": -112362.6
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 182000
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 791138
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 107500
+                        }
+                    ]
+                },
+                {
+                    "period": "2021/12",
+                    "rows": [
+                        {
+                            "cu_id": "MKT-001",
+                            "value": 6600
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 529445.02
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 35834
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 47452.21
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 129961.15
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 294594.88
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 83502.37
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 59500
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 182000
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/01",
+                    "rows": [
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 364000
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 10751477
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 1069250
+                        },
+                        {
+                            "cu_id": "SNE-001",
+                            "value": 229792
+                        },
+                        {
+                            "cu_id": "MKT-001",
+                            "value": 199973.8
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 271883.17000000004
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 409751.12
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 145701.64
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 45000
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 48290
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 59500
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 37500.869999999995
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/02",
+                    "rows": [
+                        {
+                            "cu_id": "SES-001",
+                            "value": 397018.04
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 385778.31
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 113984
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 234408.03
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 90558.45000000001
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 82417
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 54752
+                        },
+                        {
+                            "cu_id": "SNE-001",
+                            "value": 42917
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 59500
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 44395.77
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/03",
+                    "rows": [
+                        {
+                            "cu_id": "PE-001",
+                            "value": 1146245.1
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 80181.77
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 491587.73
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 111532.75
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 149728.49
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 100000
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 140750
+                        },
+                        {
+                            "cu_id": "INTERIM",
+                            "value": -28640.09
+                        },
+                        {
+                            "cu_id": "CES-001",
+                            "value": 259184
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 65910
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 59500
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 182000
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 42943.74
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 58000
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/04",
+                    "rows": [
+                        {
+                            "cu_id": "PE-001",
+                            "value": 510360.41
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 76344.45
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 1093479.53
+                        },
+                        {
+                            "cu_id": "AMBASSADORS",
+                            "value": 25000
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 77183
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": 50000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 233499.49
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 59500
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 49423.91
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 333661.09
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 2055000
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 348453
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000.0
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/05",
+                    "rows": [
+                        {
+                            "cu_id": "SF-001",
+                            "value": 91621.7
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 460000
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 4736.110000000001
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 1359503.05
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 76985.37
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 79647
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 427928.02
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 148877.35
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 113692.23999999999
+                        },
+                        {
+                            "cu_id": "EVENTS-001",
+                            "value": 149692
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 35000
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/06",
+                    "rows": [
+                        {
+                            "cu_id": "SNE-001",
+                            "value": 233514.1
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 1316.48
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 255179.58
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 73443.15
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 100000
+                        },
+                        {
+                            "cu_id": "CES-001",
+                            "value": 638431.87
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 85779.4
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 268368.86
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 78062
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 50018.43
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 38465.630000000005
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/07",
+                    "rows": [
+                        {
+                            "cu_id": "PE-001",
+                            "value": 1222865.19
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 733796.66
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 462.81000000000006
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 83865.27
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": 603897.0499999998
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 243313.13
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 322383
+                        },
+                        {
+                            "cu_id": "EVENTS-001",
+                            "value": 147291.7
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 49789.44
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 85185
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 103104.21
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 49157.84
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 1135982.5699999998
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/08",
+                    "rows": [
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 460000
+                        },
+                        {
+                            "cu_id": "EVENTS-001",
+                            "value": 45000
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 600000
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 168123.78
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 20000
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 122274.2
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 235000
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 156.35
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 655913.29
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 64051.54
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 121808
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 82781.8
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 65000
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/09",
+                    "rows": [
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 18346.67
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 252579
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 84033.38
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 336260.13999999996
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 600000
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 61094.55
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 519879
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 114218
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": 60500
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 121.89
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 64011.65
+                        },
+                        {
+                            "cu_id": "CES-001",
+                            "value": 619082.1
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 12971
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 117445
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": -733547.93
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 100000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 92296.31
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 298469.85
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/10",
+                    "rows": [
+                        {
+                            "cu_id": "SNE-001",
+                            "value": 42634.01
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 65317.95
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 208351.89999999997
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 600000
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 177605.74
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 75946.7
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 18.59
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 120490
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 60000
+                        },
+                        {
+                            "cu_id": "AMBASSADORS",
+                            "value": 81000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 49340.38
+                        },
+                        {
+                            "cu_id": "EVENTS-001",
+                            "value": 128892.45
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/11",
+                    "rows": [
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": 255248
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 76000.52
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 264512.65000000014
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 80000
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 175000
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": -178052.64999999997
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 111712
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 476857.67
+                        },
+                        {
+                            "cu_id": "RWF-001",
+                            "value": -1776073.34
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": -81501.52
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 1037436.83
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 70000
+                        },
+                        {
+                            "cu_id": "EVENTS-001",
+                            "value": 167666
+                        },
+                        {
+                            "cu_id": "SH-001",
+                            "value": 43332
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 32038.989999999998
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 150000
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 804191.45
+                        }
+                    ]
+                },
+                {
+                    "period": "2022/12",
+                    "rows": [
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 91920.55
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 4165.220000000001
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": -47511.05
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": -696836.7
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 103230
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 483413.17
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 62000
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 200000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 95340.46
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/01",
+                    "rows": [
+                        {
+                            "cu_id": "COM-001",
+                            "value": -168336
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 471583.79
+                        },
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 78572
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 632500
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 328626.20000000007
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 325000
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 108690
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": -24421.03
+                        },
+                        {
+                            "cu_id": "AMBASSADORS",
+                            "value": -4641.4
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/02",
+                    "rows": [
+                        {
+                            "cu_id": "RISK-001",
+                            "value": 230000
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 632500
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 81278.59
+                        },
+                        {
+                            "cu_id": "CES-001",
+                            "value": 639759.9
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 200000
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 166707.78
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 189000
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 109048
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 311548.88
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": 209000
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": 146559
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 138894
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 82829.74
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": -746013.08
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/03",
+                    "rows": [
+                        {
+                            "cu_id": "SF-001",
+                            "value": 92556.93
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": 50000
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 100775
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": -98651.40000000002
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 553704.13
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 44250
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 1650000
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 196194.63
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 1602053.75
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 80000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 83730.39
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/04",
+                    "rows": [
+                        {
+                            "cu_id": "PE-001",
+                            "value": 1750000
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 167561.41
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": 100438.01
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 700356.9
+                        },
+                        {
+                            "cu_id": "COM-001",
+                            "value": -31614.25
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 1700000
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 23000
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 142572.66
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 80000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 82845.39
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 207000
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 347100
+                        },
+                        {
+                            "cu_id": "VIRIDIAN",
+                            "value": 257250
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 75776
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 292771.5
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/05",
+                    "rows": [
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 45000
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 414000
+                        },
+                        {
+                            "cu_id": "TECHOPS",
+                            "value": 7452.91
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 680701.58
+                        },
+                        {
+                            "cu_id": "VIRIDIAN",
+                            "value": 166835.13
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 441651.93
+                        },
+                        {
+                            "cu_id": "MULTICHAIN",
+                            "value": 185381.57
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 177318.17
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 288877.34
+                        },
+                        {
+                            "cu_id": "CAIS",
+                            "value": 100000
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 200000
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": -24142.04
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 157731.88
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 80000
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 380578.75
+                        },
+                        {
+                            "cu_id": "CES-001",
+                            "value": 263422.48
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 0
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": -116337.13
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 174991.03
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 86159.81
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 66000
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/06",
+                    "rows": [
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 546360.79
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 32513.87
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 213223.46
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 150000
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 1000
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": 280841.45
+                        },
+                        {
+                            "cu_id": "TECHOPS",
+                            "value": 20595.97
+                        },
+                        {
+                            "cu_id": "SNE-001",
+                            "value": 0
+                        },
+                        {
+                            "cu_id": "CES-001",
+                            "value": -324757.51
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 144000
+                        },
+                        {
+                            "cu_id": "AMBASSADORS",
+                            "value": -330.05
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 156128.71
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 115373.39
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": -32289.96
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/07",
+                    "rows": [
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 308094.02
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 351000
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 28082.550000000003
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 170158.73
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 226251.37
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 336201.29
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 900000
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 494001
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 170589.72
+                        },
+                        {
+                            "cu_id": "GRO-001",
+                            "value": 241936.84
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 19636.16
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 173830.73
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 5055.97
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 40000
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 154322.08
+                        },
+                        {
+                            "cu_id": "SAS-001",
+                            "value": -25306.86
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 218973.72
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 77043.38
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 20000
+                        },
+                        {
+                            "cu_id": "BLOCKTOWER",
+                            "value": 133466
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/08",
+                    "rows": [
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 331337.64
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 24129.149999999998
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 140547.69
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 264543.2
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 8015.07
+                        },
+                        {
+                            "cu_id": "DUX-001",
+                            "value": -283716.92
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 271985.78
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 182868.33
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": -0.030000000027939677
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 250671.72
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 169419.06
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 114126.94
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 429562
+                        },
+                        {
+                            "cu_id": "TECHOPS",
+                            "value": 55998.47
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 207000
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 2000000
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": 14228.839999999997
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 579575
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/09",
+                    "rows": [
+                        {
+                            "cu_id": "SF-001",
+                            "value": 206668.43
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 349272.09
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 20000
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 4016.57
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 50721.76
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 61639.78
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 4102.66
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 101603.9
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": -12583.42
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 125073.66
+                        },
+                        {
+                            "cu_id": "GOV-001",
+                            "value": -197480.88999999998
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 28896.39
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 941993
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 207000
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/10",
+                    "rows": [
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 41564.3
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": 325278.27
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 250864.44
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 186262.82
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 95542.2
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": 552537.65
+                        },
+                        {
+                            "cu_id": "ORA-001",
+                            "value": 200000
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 387070.11
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 379567.63
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 279000
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 4005.99
+                        },
+                        {
+                            "cu_id": "CHRONICLE",
+                            "value": 1059318.94
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 172781.65
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 195652.09
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 272072.29
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/11",
+                    "rows": [
+                        {
+                            "cu_id": "TECHOPS",
+                            "value": 106303.75
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 195023.37
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 16040.32
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 4029.21
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 2200000
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 279000
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 23020.44
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 251343.25
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 202450.6
+                        },
+                        {
+                            "cu_id": "AAVE",
+                            "value": 2889
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": -413395.65
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 33215.42
+                        },
+                        {
+                            "cu_id": "DIN-001",
+                            "value": -322276.08
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 143859.07
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 141168.94
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 111630.64
+                        }
+                    ]
+                },
+                {
+                    "period": "2023/12",
+                    "rows": [
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 41828.81
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 288424.39
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 389561.44
+                        },
+                        {
+                            "cu_id": "CHRONICLE",
+                            "value": 803888.77
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": -37000
+                        },
+                        {
+                            "cu_id": "SF-001",
+                            "value": 35926.73
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 16059.750000000002
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 351000
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 20000
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 20326.45
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 130542.51999999999
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 252540.41999999998
+                        },
+                        {
+                            "cu_id": "DECO-001",
+                            "value": 59354.55
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 127512.14
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 100335.72
+                        },
+                        {
+                            "cu_id": "BLOCKTOWER",
+                            "value": 201738
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/01",
+                    "rows": [
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 130280.71
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 16170.809999999998
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 52122.71
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 363776.42000000004
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 12058.76
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 30461.230000000003
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 279000
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 4500000
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": 101371.25
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 64614.11
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 150160.59
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/02",
+                    "rows": [
+                        {
+                            "cu_id": "GELATO",
+                            "value": 20506.86
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 12022.630000000001
+                        },
+                        {
+                            "cu_id": "VIRIDIAN",
+                            "value": 20000
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 31694.17
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 46231.3
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 215181.25
+                        },
+                        {
+                            "cu_id": "BA-LABS",
+                            "value": 289000
+                        },
+                        {
+                            "cu_id": "AAVE",
+                            "value": 100603
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 285000
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 76244.14
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 46159.46
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 160916.34
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 160947.55
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 137112.31
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/03",
+                    "rows": [
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 40026.93
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 48493.54
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 340741.00999999995
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 40116.659999999996
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 340995.0
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 226779.86
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 3000000
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 44081.45
+                        },
+                        {
+                            "cu_id": "TECH-001",
+                            "value": -318551.47
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 156830.35
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 145839.92
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 57857.13
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/04",
+                    "rows": [
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 20085.059999999998
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 189528.66
+                        },
+                        {
+                            "cu_id": "AAVE",
+                            "value": 238339
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 12097.16
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 230000
+                        },
+                        {
+                            "cu_id": "SIDESTREAM",
+                            "value": 72534.28
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 208274.57
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 13838.96
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 285000
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 90450.71
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 37418.25
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 145047.69
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 123949.44
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/05",
+                    "rows": [
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 93908.44
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 8019.6900000000005
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 5358007
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 55000
+                        },
+                        {
+                            "cu_id": "TECHOPS",
+                            "value": 169606.53
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 182274.52000000002
+                        },
+                        {
+                            "cu_id": "PULLUP",
+                            "value": 236473.71
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 119528.04
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 3119.21
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 40289.21
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/06",
+                    "rows": [
+                        {
+                            "cu_id": "VIRIDIAN",
+                            "value": 37500
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 74269.43
+                        },
+                        {
+                            "cu_id": "KEEP3R",
+                            "value": 34611.88
+                        },
+                        {
+                            "cu_id": "SES-001",
+                            "value": -86377.94
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 5000000
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 8240.93
+                        },
+                        {
+                            "cu_id": "SPF",
+                            "value": -5000
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 4030.02
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 177576.15
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 44191.23
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/07",
+                    "rows": [
+                        {
+                            "cu_id": "CHRONICLE",
+                            "value": -2307.7099999999627
+                        },
+                        {
+                            "cu_id": "GELATO",
+                            "value": 8025.03
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 101318.07
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 61380.25
+                        },
+                        {
+                            "cu_id": "AAVE",
+                            "value": 219125
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 50000
+                        },
+                        {
+                            "cu_id": "INTERIM",
+                            "value": -409929.41
+                        },
+                        {
+                            "cu_id": "GOVSEC",
+                            "value": 285000
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 165803.95
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 4175.57
+                        },
+                        {
+                            "cu_id": "PE-001",
+                            "value": 20500
+                        },
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 4500000
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/08",
+                    "rows": [
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 200907.34999999998
+                        },
+                        {
+                            "cu_id": "IS-001",
+                            "value": 10000
+                        },
+                        {
+                            "cu_id": "PHOENIX",
+                            "value": 25000
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 169168.4
+                        },
+                        {
+                            "cu_id": "VIRIDIAN",
+                            "value": 30000
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 26691.61
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 8113.1900000000005
+                        },
+                        {
+                            "cu_id": "DAIF-001",
+                            "value": 120000
+                        }
+                    ]
+                },
+                {
+                    "period": "2024/09",
+                    "rows": [
+                        {
+                            "cu_id": "LAUNCH",
+                            "value": 9535993
+                        },
+                        {
+                            "cu_id": "CHAINLINK",
+                            "value": 4000.01
+                        },
+                        {
+                            "cu_id": "ECOSYSTEM",
+                            "value": 43374.76
+                        },
+                        {
+                            "cu_id": "VIRIDIAN",
+                            "value": 30000
+                        },
+                        {
+                            "cu_id": "DELEGATES",
+                            "value": 23645.66
+                        },
+                        {
+                            "cu_id": "JETSTREAM",
+                            "value": 150947.25
+                        },
+                        {
+                            "cu_id": "DEWIZ",
+                            "value": 134000
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

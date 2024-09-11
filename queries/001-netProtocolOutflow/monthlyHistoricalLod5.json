@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2021-01-01",
-    "end": "2024-01-01",
+    "end": "2024-09-01",
     "metrics": [
       "ProtocolNetOutflow"
     ],
